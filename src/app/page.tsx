@@ -1,4 +1,3 @@
-export const runtime = 'edge';
 
 import { fetchFromAniList } from '@/lib/anilist';
 import { fetchFromTMDB } from '@/lib/tmdb';

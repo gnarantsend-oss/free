@@ -1,4 +1,3 @@
-export const runtime = 'edge';
 import { notFound } from 'next/navigation';
 import { fetchMovieById } from '@/lib/tmdb';
 import type { Metadata, ResolvingMetadata } from 'next';
