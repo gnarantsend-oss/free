@@ -44,3 +44,5 @@ next-env.d.ts
 .qodo
 .open-next/
 .wrangler/
+.open-next/
+.wrangler/
